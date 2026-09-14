@@ -35,4 +35,4 @@ Atheo Carl C. Sua
 
 http://localhost/codeigniter/public/
 
-use this for now on XAMPP. The online hosting is not yet available.
+Use this for now on XAMPP. The online hosting is not yet available.
