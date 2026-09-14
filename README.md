@@ -33,4 +33,6 @@ Atheo Carl C. Sua
 
 ## Hosted Application
 
-Add the hosted application link here.
+http://localhost/codeigniter/public/
+
+use this for now on XAMPP. The online hosting is not yet available.
