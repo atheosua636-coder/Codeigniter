@@ -33,6 +33,4 @@ Atheo Carl C. Sua
 
 ## Hosted Application
 
-http://localhost/codeigniter/public/
-
-Use this for now on XAMPP. The online hosting is not yet available.
+https://pos-system.infinityfree.io/
