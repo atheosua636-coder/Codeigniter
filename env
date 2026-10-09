@@ -1,0 +1,20 @@
+CI_ENVIRONMENT = development
+
+app.baseURL = 'http://localhost/codeigniter/public/'
+app.indexPage = ''
+
+database.default.hostname = localhost
+database.default.database = pos_system
+database.default.username = root
+database.default.password = ''
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+database.default.port = 3306
+
+database.taskmanager.hostname = localhost
+database.taskmanager.database = tasks
+database.taskmanager.username = root
+database.taskmanager.password = ''
+database.taskmanager.DBDriver = MySQLi
+database.taskmanager.DBPrefix =
+database.taskmanager.port = 3306
